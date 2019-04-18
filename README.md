@@ -11,3 +11,6 @@ list all services in windows
 sc queryex tomcat8
 list tomcat details find the processid of tomcat
 taskkill /PID 2340 /F
+
+#open JDK Guthub URL
+https://github.com/ojdkbuild/ojdkbuild
