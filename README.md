@@ -12,5 +12,5 @@ sc queryex tomcat8
 list tomcat details find the processid of tomcat
 taskkill /PID 2340 /F
 
-# open JDK Guthub URL
+# open JDK Github URL
 https://github.com/ojdkbuild/ojdkbuild
