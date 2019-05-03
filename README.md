@@ -14,3 +14,14 @@ taskkill /PID 2340 /F
 
 # open JDK Github URL
 https://github.com/ojdkbuild/ojdkbuild
+
+#Tomcat SSL browser trusted
+
+# Generate Keystore:
+C:\localhostCerts>keytool -genkey -alias server-alias -keyalg RSA -keypass welcome -storepass welcome -keystore localhost.jks
+
+keytool -export -alias server-alias -storepass welcome -file server.cer -keystore localhost.jks 
+you will get below message
+Certificate stored in file <server.cer>
+
+
