@@ -24,4 +24,6 @@ keytool -export -alias server-alias -storepass welcome -file server.cer -keystor
 you will get below message
 Certificate stored in file <server.cer>
 
+refer:
+http://javakafunda.blogspot.com/2012/04/how-to-configure-tomcat-to-support-ssl.html
 
