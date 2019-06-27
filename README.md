@@ -27,3 +27,5 @@ Certificate stored in file <server.cer>
 refer:
 http://javakafunda.blogspot.com/2012/04/how-to-configure-tomcat-to-support-ssl.html
 
+for javakeytool anf ssl
+#https://sites.google.com/site/ddmwsst/create-your-own-certificate-and-ca
