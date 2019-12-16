@@ -36,7 +36,7 @@ winrm set winrm/config/client/auth '@{Basic="true"}'
 winrm set winrm/config/service/auth '@{Basic="true"}'
 
 # Generating Certificate and key from existing keystore
-certifictae
+certifictae </br>
 openssl pkcs12 -in keystore.p12  -nokeys -out server.crt
 key
 openssl pkcs12 -in keystore.p12  -nodes -nocerts -out server.key
