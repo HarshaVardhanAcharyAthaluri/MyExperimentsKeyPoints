@@ -45,7 +45,7 @@ openssl pkcs12 -in keystore.p12  -nodes -nocerts -out server.key
 openssl pkcs12 -export -in server.crt -inkey server.key -out keystore.p12
 
 # when oracle sql* plus not showing properly
-set lines 256
-set trimout on
+set lines 256 </br>
+set trimout on </br>
 set tab off
 
