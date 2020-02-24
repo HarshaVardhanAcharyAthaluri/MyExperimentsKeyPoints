@@ -27,6 +27,24 @@ Certificate stored in file <server.cer>
 refer:
 http://javakafunda.blogspot.com/2012/04/how-to-configure-tomcat-to-support-ssl.html
 
+#certificate generation with openssl
+The following commands are needed to create a root certificate:</br>
+openssl genrsa -des3 -out rootCA.key 2048</br>
+openssl req -x509 -new -nodes -key rootCA.key -sha256 -days 1024  -out rootCA.pem</br>
+The following commands are needed to create an SSL certificate issued by the self created root certificate:</br>
+openssl req -new -nodes -out server.csr -newkey rsa:2048 -keyout server.key</br>
+openssl x509 -req -in server.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out server.crt -days 500 -sha256 -extfile v3.ext</br>
+The referenced v3.ext file should look something like this:</br>
+authorityKeyIdentifier=keyid,issuer</br>
+basicConstraints=CA:FALSE</br>
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment</br>
+subjectAltName = @alt_names</br>
+[alt_names]</br>
+DNS.1 = acme-site.dev</br>
+DNS.2 = acme-static.dev</br>
+In order to bundle the server certificate and private key into a single file the following command needs to be executed:</br>
+openssl pkcs12 -inkey server.key -in server.crt -export -out server.pfx</br>
+
 for javakeytool anf ssl
 #https://sites.google.com/site/ddmwsst/create-your-own-certificate-and-ca
 
