@@ -64,3 +64,7 @@ DNS.1 = acme-site.dev</br>
 DNS.2 = acme-static.dev</br>
 In order to bundle the server certificate and private key into a single file the following command needs to be executed:</br>
 openssl pkcs12 -inkey server.key -in server.crt -export -out server.pfx</br>
+
+# Liked color Schema
+BG:0,104,131   </br>
+Font:0,104,131 </br>
