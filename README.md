@@ -68,3 +68,5 @@ openssl pkcs12 -inkey server.key -in server.crt -export -out server.pfx</br>
 # Liked color Schema
 BG:0,104,131   </br>
 Font:0,104,131 </br>
+# dummy json api
+https://jsonplaceholder.typicode.com/users
