@@ -12,10 +12,10 @@ sc queryex tomcat8
 list tomcat details find the processid of tomcat
 taskkill /PID 2340 /F
 
-# open JDK Github URL
+# Open JDK Github URL
 https://github.com/ojdkbuild/ojdkbuild
 
-#Tomcat SSL browser trusted
+# Tomcat SSL browser trusted
 
 # Generate Keystore:
 C:\localhostCerts>keytool -genkey -alias server-alias -keyalg RSA -keypass welcome -storepass welcome -keystore localhost.jks
@@ -42,7 +42,7 @@ openssl pkcs12 -in keystore.p12  -nodes -nocerts -out server.key
 # Generating keystore from existing crt and key
 openssl pkcs12 -export -in server.crt -inkey server.key -out keystore.p12
 
-# when oracle sql* plus not showing properly
+# When oracle sql* plus not showing properly
 set lines 256 </br>
 set trimout on </br>
 set tab off
@@ -68,12 +68,12 @@ openssl pkcs12 -inkey server.key -in server.crt -export -out server.pfx</br>
 # Liked color Schema
 `rgb(0, 133, 161)
 `
-# dummy json api
+# Dummy json api
 https://jsonplaceholder.typicode.com/users
 
 
 
-# gain a token from postman by importing below curl
+# Gain a token from postman by importing below curl
 
 `
 curl "https://localhost:8443/uaa/oauth/token" -i -X POST     -H "Content-Type: application/x-www-form-urlencoded"     -H "Accept: application/json"     -d "client_id=admin&client_secret=adminsecret&scope=scim.write&grant_type=client_credentials&token_format=opaque"
