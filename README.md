@@ -70,3 +70,11 @@ openssl pkcs12 -inkey server.key -in server.crt -export -out server.pfx</br>
 `
 # dummy json api
 https://jsonplaceholder.typicode.com/users
+
+
+
+# gain a token from postman by importing below curl
+
+`
+curl "https://localhost:8443/uaa/oauth/token" -i -X POST     -H "Content-Type: application/x-www-form-urlencoded"     -H "Accept: application/json"     -d "client_id=admin&client_secret=adminsecret&scope=scim.write&grant_type=client_credentials&token_format=opaque"
+`
