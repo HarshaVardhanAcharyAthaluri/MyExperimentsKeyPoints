@@ -88,5 +88,5 @@ headers      |Content-Type:application/x-www-form-urlencoded
 .            |Accept:application/json
 Request Body |client_id:admin
 .            |client_secret:adminsecret
-.            |grant_type:client_credentials
+             |grant_type:client_credentials
 
