@@ -80,13 +80,13 @@ curl "https://localhost:8443/uaa/oauth/token" -i -X POST     -H "Content-Type: a
 `
 # Oauth token from postman
 
-Key | value
+Key          | value
 ------------ | -------------
-url |https://localhost:8443/uaa/oauth/token 
-Method  |Post
-headers |Content-Type:application/x-www-form-urlencoded</br>
-         Accept:application/json
+url          |https://localhost:8443/uaa/oauth/token 
+Method       |Post
+headers      |Content-Type:application/x-www-form-urlencoded
+.            |Accept:application/json
 Request Body |client_id:admin
-             client_secret:adminsecret
-              grant_type:client_credentials
+.            |client_secret:adminsecret
+.            |grant_type:client_credentials
 
