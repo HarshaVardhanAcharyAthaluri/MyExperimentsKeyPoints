@@ -79,11 +79,14 @@ https://jsonplaceholder.typicode.com/users
 curl "https://localhost:8443/uaa/oauth/token" -i -X POST     -H "Content-Type: application/x-www-form-urlencoded"     -H "Accept: application/json"     -d "client_id=admin&client_secret=adminsecret&scope=scim.write&grant_type=client_credentials&token_format=opaque"
 `
 # Oauth token from postman
-url             |https://localhost:8443/uaa/oauth/token 
-Method          |Post
-headers         |Content-Type:application/x-www-form-urlencoded
-                Accept:application/json
-Request Body    |client_id:admin
-                client_secret:adminsecret
-                grant_type:client_credentials
+
+Key | value
+------------ | -------------
+url |https://localhost:8443/uaa/oauth/token 
+Method  |Post
+headers |Content-Type:application/x-www-form-urlencoded
+         | Accept:application/json
+Request Body |client_id:admin
+             |client_secret:adminsecret
+              |grant_type:client_credentials
 
