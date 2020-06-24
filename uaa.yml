@@ -643,3 +643,6 @@ encryption:
   - label: CHANGE-THIS-KEY
     passphrase: CHANGEME
     
+zones:
+  internal:
+    hostnames: ['localhost','127.0.0.1']
