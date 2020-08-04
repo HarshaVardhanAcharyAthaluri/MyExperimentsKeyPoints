@@ -94,10 +94,10 @@ https://docs.pivotal.io/p-identity/1-10/okta/config-okta.html
 
 Just add the property responseSkew to the WebSSOProfileConsumerImpl and SingleLogoutProfileImpl beans:
 
-`<bean id="webSSOprofileConsumer" class="org.springframework.security.saml.websso.WebSSOProfileConsumerImpl">
+<bean id="webSSOprofileConsumer" class="org.springframework.security.saml.websso.WebSSOProfileConsumerImpl">
     <property name="responseSkew" value="600"/> <!-- 10 minutes -->
 </bean>
 
 <bean id="logoutprofile" class="org.springframework.security.saml.websso.SingleLogoutProfileImpl">
     <property name="responseSkew" value="600"/> <!-- 10 minutes -->
-</bean>`
+</bean>
