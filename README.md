@@ -87,3 +87,6 @@ Method       |Post
 headers      |Content-Type:application/x-www-form-urlencoded<br/>Accept:application/json
 Request Body |client_id:admin<br/>client_secret:adminsecret<br/>grant_type:client_credentials
 
+# OKTA + PCF
+https://docs.pivotal.io/p-identity/1-10/okta/config-okta.html
+
