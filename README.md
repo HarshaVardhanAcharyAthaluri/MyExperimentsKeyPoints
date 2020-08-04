@@ -90,3 +90,14 @@ Request Body |client_id:admin<br/>client_secret:adminsecret<br/>grant_type:clien
 # OKTA + PCF
 https://docs.pivotal.io/p-identity/1-10/okta/config-okta.html
 
+# CF ERROR -> Response issue time is either too old or with date in the future, skew 60
+
+Just add the property responseSkew to the WebSSOProfileConsumerImpl and SingleLogoutProfileImpl beans:
+
+`<bean id="webSSOprofileConsumer" class="org.springframework.security.saml.websso.WebSSOProfileConsumerImpl">
+    <property name="responseSkew" value="600"/> <!-- 10 minutes -->
+</bean>
+
+<bean id="logoutprofile" class="org.springframework.security.saml.websso.SingleLogoutProfileImpl">
+    <property name="responseSkew" value="600"/> <!-- 10 minutes -->
+</bean>`
