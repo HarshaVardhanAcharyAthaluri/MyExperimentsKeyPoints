@@ -102,3 +102,5 @@ Just add the property responseSkew to the WebSSOProfileConsumerImpl and SingleLo
     <property name="responseSkew" value="600"/> <!-- 10 minutes -->
 </bean>
 ```
+to share quick vedio demo and conver to gif 
+https://www.screentogif.com/
