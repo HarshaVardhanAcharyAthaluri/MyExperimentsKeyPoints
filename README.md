@@ -102,5 +102,8 @@ Just add the property responseSkew to the WebSSOProfileConsumerImpl and SingleLo
     <property name="responseSkew" value="600"/> <!-- 10 minutes -->
 </bean>
 ```
-to share quick video demo and convert to gif 
+# To share quick video demo and convert to gif 
 https://www.screentogif.com/
+
+# Create Your Own Self-Signed Certificate with Subject Alternative Names Using OpenSSL in Ubuntu Bash for Window
+https://gist.github.com/jchandra74/36d5f8d0e11960dd8f80260801109ab0
