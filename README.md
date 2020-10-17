@@ -107,3 +107,7 @@ https://www.screentogif.com/
 
 # Create Your Own Self-Signed Certificate with Subject Alternative Names Using OpenSSL in Ubuntu Bash for Window
 https://gist.github.com/jchandra74/36d5f8d0e11960dd8f80260801109ab0
+
+# Taiko
+Taiko is a free and open source browser automation tool built by the team behind Gauge from ThoughtWorks.
+its intractive test tool also.
