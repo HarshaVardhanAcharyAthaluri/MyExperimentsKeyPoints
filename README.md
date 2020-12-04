@@ -111,3 +111,6 @@ https://gist.github.com/jchandra74/36d5f8d0e11960dd8f80260801109ab0
 # Taiko
 Taiko is a free and open source browser automation tool built by the team behind Gauge from ThoughtWorks.
 its intractive test tool also.
+
+# telnet
+Request and Response over telnet for the HTTP TRACK method is identical, for testing purposes, as it is for TRACE.  Simply subsitute TRACK for TRACE.  If you need to test a host that is listening on ssl port 443 (and does not have an HTTP port exposed), use openssl's s_client.  Simply type " openssl s_client -connect <hostname:sslport> ".
