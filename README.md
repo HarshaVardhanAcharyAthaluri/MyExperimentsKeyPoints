@@ -114,3 +114,6 @@ its intractive test tool also.
 
 # telnet
 Request and Response over telnet for the HTTP TRACK method is identical, for testing purposes, as it is for TRACE.  Simply subsitute TRACK for TRACE.  If you need to test a host that is listening on ssl port 443 (and does not have an HTTP port exposed), use openssl's s_client.  Simply type " openssl s_client -connect <hostname:sslport> ".
+
+# Decrypt certificate details
+openssl x509 -in server.crt -text -noout |findstr CN
