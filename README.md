@@ -119,10 +119,11 @@ Request and Response over telnet for the HTTP TRACK method is identical, for tes
 openssl x509 -in server.crt -text -noout |findstr CN
 
 # Nginx configuration multiple apps on same domain
-this issue i faced when i am trying to configure multiple apps on same host/domain.
-second app always givving 401 error. then added rewrite /api/(.*)$ /$1 break;
+When iam trying to configure multiple apps on same host/domain in NgInx.
+second app always givving 401 error. then added `rewrite /api/(.*)$ /$1 break;`
+
 # EX:
- location /api/ {
+ `location /api/ {
   rewrite /api/(.*)$ /$1 break;
     proxy_pass http://127.0.0.1:5000;
     proxy_http_version 1.1;
@@ -138,4 +139,6 @@ second app always givving 401 error. then added rewrite /api/(.*)$ /$1 break;
     add_header 'Access-Control-Expose-Headers' 'Content-Length,Content-Range';
   
 	
-  }
+  }`
+  
+  
