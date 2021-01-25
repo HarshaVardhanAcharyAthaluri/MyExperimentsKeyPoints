@@ -120,7 +120,9 @@ openssl x509 -in server.crt -text -noout |findstr CN
 
 # Nginx configuration multiple apps on same domain
 When iam trying to configure multiple apps on same host/domain in NgInx.
-second app always givving 401 error. then added `rewrite /api/(.*)$ /$1 break;`
+second app always givving 401 error. then added 
+`rewrite /api/(.*)$ /$1 break;
+`
 
 # EX:
  `location /api/ {
@@ -139,6 +141,7 @@ second app always givving 401 error. then added `rewrite /api/(.*)$ /$1 break;`
     add_header 'Access-Control-Expose-Headers' 'Content-Length,Content-Range';
   
 	
-  }`
+  }
+  `
   
   
