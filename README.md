@@ -139,3 +139,14 @@ second app always givving 401 error. then added
     add_header 'Access-Control-Allow-Headers' 'DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range';
     add_header 'Access-Control-Expose-Headers' 'Content-Length,Content-Range';	
   }
+  
+  # User lockout in UAA
+  
+ ```authentication:
+  policy:
+    lockoutAfterFailures: 5
+    countFailuresWithinSeconds: 0
+    lockoutPeriodSeconds: 0
+    ```
+    
+  https://github.com/cloudfoundry/uaa/issues/380
