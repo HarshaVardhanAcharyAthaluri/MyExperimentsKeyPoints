@@ -26,8 +26,6 @@ scim:
     uaa.offline_token: Allow offline access
 scim:
   users:
-     - bm_operator_1|bm_operator_1
-
      - marissa|koala
 
 oauth:
