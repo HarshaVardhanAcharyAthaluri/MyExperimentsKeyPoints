@@ -142,11 +142,13 @@ second app always givving 401 error. then added
   
   # User lockout in UAA
   
- ```authentication:
+ authentication:
   policy:
     lockoutAfterFailures: 5
     countFailuresWithinSeconds: 0
     lockoutPeriodSeconds: 0
-    ```
-    
-  https://github.com/cloudfoundry/uaa/issues/380
+   
+ https://github.com/cloudfoundry/uaa/issues/380
+
+# UAA Document Resource
+https://gist.github.com/esfand/6688095
