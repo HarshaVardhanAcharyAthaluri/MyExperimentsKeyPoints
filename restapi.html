@@ -1,0 +1,20 @@
+<script>
+    let request = new XMLHttpRequest();
+    request.open("GET", "http://localhost:7072/orders");
+    request.send();
+    request.onload = () => {
+        if (request.status === 200) {
+            const orders = JSON.parse(request.response);
+            console.log(orders);
+            orders.forEach(element => {
+                const list = document.createElement('li');
+                list.innerHTML = element.catagery;
+                document.getElementById('ord').appendChild(list);
+            });
+
+        }
+    }
+</script>
+<ul id="ord">
+
+</ul>
