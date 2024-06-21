@@ -151,4 +151,9 @@ second app always givving 401 error. then added
  https://github.com/cloudfoundry/uaa/issues/380
 
 # UAA Document Resource
-https://gist.github.com/esfand/6688095
+https://gist.github.com/esfand/66880950
+
+
+# VisualVM
+VisualVM monitors and troubleshoots applications running on Java 1.4+ from many vendors using various technologies including jvmstat, JMX, Serviceability Agent (SA) and Attach API.
+VisualVM perfectly fits all the requirements of application developers, system administrators, quality engineers and end users.
