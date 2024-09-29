@@ -11,17 +11,6 @@ formtesting
 
 when to use function expression or normal expression
 
-H-no:8-3-228/1187 2nd floor,
-Rahamath nagar,
-near sai baba temple,
-Yousufguda,
-Hyderabad 500045
-
-10-152,Indira colony,
-Opposite FCI,
-Kotha Patnam road,
-Ongole 523001.
-
 https://jsonplaceholder.typicode.com/userslm0
 A class contains constructors that are invoked to create objects
 
