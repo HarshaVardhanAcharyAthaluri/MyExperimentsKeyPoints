@@ -1,6 +1,3 @@
-appleid -> Dev@1234
-
-
 Default Strategy
 onPush Strategy
 
