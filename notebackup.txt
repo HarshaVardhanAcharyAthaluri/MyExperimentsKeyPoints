@@ -1,0 +1,1331 @@
+appleid -> Dev@1234
+
+
+Default Strategy
+onPush Strategy
+
+flatmap vs switchmap rxjs 
+
+
+angular jest unit test example
+observble mocking service
+
+formtesting
+
+when to use function expression or normal expression
+
+H-no:8-3-228/1187 2nd floor,
+Rahamath nagar,
+near sai baba temple,
+Yousufguda,
+Hyderabad 500045
+
+10-152,Indira colony,
+Opposite FCI,
+Kotha Patnam road,
+Ongole 523001.
+
+https://jsonplaceholder.typicode.com/userslm0
+A class contains constructors that are invoked to create objects
+
+=====================================================================
+Here are this week's five links that are worth your time:
+
+1. Big O Notation is a tool that developers use to understand how much time a piece of code will take to execute. Computer Scientists call this "Time Complexity." This comes up all the time in day-to-day programming, and in job interviews. As a developer, you will definitely want to understand Big O Notation well. And that's precisely what this freeCodeCamp course will help you do. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-big-o-notation/
+
+2. Google Cloud is the third largest cloud services provider – right behind AWS and Azure. If you want to get into cloud engineering or DevOps, you may want to consider taking the Google Cloud Digital Leader Certification Exam. This in-depth course will help you pass the exam. (6 hour YouTube course): https://www.freecodecamp.org/news/google-cloud-digital-leader-course/
+
+3. One of the most common ways websites crash is from Distributed Denial of Service attacks. In this tutorial, security researcher Megan Kaczanowski will show you how these DDoS attacks work, and how you can defend against them. (10 minute read): https://www.freecodecamp.org/news/protect-against-ddos-attacks/
+
+4. FastAPI is an open source Python web development framework that makes it easier to build APIs. It's relatively new, but already companies like Netflix have started using it. This crash course will teach you the basics. (1 hour YouTube course): https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/
+
+5. OpenGL is a powerful tool for creating both 2D and 3D computer graphics. This course will teach you how to use the Depth Buffer, Stencil Buffer, Frame Buffers, Cubemaps, Geometry Shaders, Anti-Aliasing, and more. (1 hour YouTube course): https://www.freecodecamp.org/news/create-complex-graphics-with-opengl/
+
+A big thank you to the 7,269 people who support our nonprofit's mission each month with donations. I encourage you to join the ranks of these kind human beings (and help us pay for servers). Get involved: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: This is an alternative way of thinking about Big O Notation, from Tennessee-based cloud engineer Josh Carroll.
+O(1) = O(yeah)
+O(log n) = O(nice)
+O(n) = O(ok)
+O(n²) = O(my)
+O(2ⁿ) = O(no)
+O(n!) = O(mg!)
+
+Happy coding.
+
+- Quincy Larson
+
+Teacher at https://www.freecodecamp.org
+I share useful things on Twitter at https://www.twitter.com/ossia
+
+If these emails aren't worth your time, you can turn them off: https://www.freecodecamp.org/ue/iKP4v_ne8YGgBgtALXH~_
+
+
+
+https://dzone.com/articles/java-and-immutability-avoid?edition=703409
+
+
+
+
+
+
+Angular Step By Step With Project Based
+
+Lab 1: - Running your first Angular Application.
+Chapter 1 :- Node and NPM
+Chapter 2 :- Running first app & Angulr CLI
+Chapter 3 :- VS Code editor.
+Chapter 4 :- TypeScript
+Chapter 5 :- CLI project folder structure
+Chapter 6 :- The config JSON files
+Chapter 7 :- ng serve vs ng build
+Chapter 8 :- Angular the binding framework
+Chapter 9 :- Component and Modules
+Chapter 10 :- Expression , Decorators and TemplateURL
+Chapter 11 :- Declaration and BootStrap in Modules
+Chapter 12 :- The main.ts file for module startup
+Chapter 13 :- Index.html and the selector tag
+Chapter 14 :- Polyfills
+Chapter 15 :- Webpack :- Packaging and deploying
+Chapter 16 :- Vendor.js and Runtime.js
+
+
+Lab 2: - Creating the Customer UI, Model and Component.
+Chapter 17 :- Angular File naming Convention
+Chapter 18 :- Creating Customer UI
+Chapter 19 :- Creating Customer Model
+Chapter 20 :- Consuming model in component
+Chapter 21 :- ngModel , One way and Two way binding
+Chapter 22 :- Expressions
+Chapter 23 :- Understanding and Intrepeting Errors
+Chapter 24 :- FormsModule
+Chapter 25 :- *ngForLoop
+Chapter 26 :- package.lock.json and versioning
+Chapter 27 :- Using source code of the tutorial.
+
+Lab 3: - Angular Routing: Creating Master pages and navigations
+Chapter 28 :- Thinking Uniform , Thinking Master Pages
+Chapter 29:- Creating Angular UI and its components.
+Chapter 30 :- Organizing project folders, modules & components.
+Chapter 31 :- Masterpage and selector
+Chapter 32 :- Grouping components in to Modules.
+Chapter 33 :- Understanding UI loading in selector.
+Chapter 34 :- Routing and Routing collection
+Chapter 35 :- router-outlet and routerLink
+Chapter 36 :- RouterModule and loading routes in Angular.
+Chapter 37 :- Understanding the flow of Angular with routing.  
+
+Lab 4: - Increasing Performance using Lazy Loading.
+Chapter 38 :- Performance issues due to eager loading.
+Chapter 39 :- Implementing Lazy loading
+Chapter 40 :- Dividing project in to self contained Angular modules.
+Chapter 41 :- Self contained routes for self contained modules.
+Chapter 42 :- loadChildren :- The heart of lazy loading
+Chapter 43:- Understanding path structure for folders and loadChildren.
+Chapter 44:- forRoot and forChild
+Chapter 45:- Multiple Modules , Multiple builds and Multiple outputs.
+Chapter 46:- CommonModule for Lazy Loading
+Chapter 47:- Seeing the physical separate modules in the "dist" folder.
+Chapter 48:- Revising Angular architecture with Lazy routing  
+
+Lab 5: - Implement Validations in Angular.
+Chapter 49 :- Validation object model.
+Chapter 50 :- Appropriate place to put validations
+Chapter 51 :-Formgroup , FormControl , Validators and FormBuilder
+Chapter 52 :- Using Angular validation :- The CCC process.
+Chapter 53 :- Creating validations
+Chapter 54 :- Applying validations to the UI
+Chapter 55 :- Checking validation status
+Chapter 56 :- ReactiveForms
+Chapter 57 :- ngModelOption standalone
+Chapter 58 :- Display errors for individual validations.
+Chapter 59 :- The dirty flag.
+Chapter 60 :- Centralizing validation code for reusability.
+
+Lab 6: - Angular Dependency Injection.
+Chapter 61: - Definition of a good architecture
+Chapter 62: - Concrete classes and tight coupling
+Chapter 63: - Provider - provides things to component.
+Chapter 64: - Creating providers: - Provide & UseClass
+Chapter 65: - Interfaces issues with Angular DI
+Chapter 66: - Finally understanding Dependency Injection
+Chapter 67: - Seeing the actual fruits of Dependency Injection
+Chapter 68: - Centralized and Conditional DI
+Chapter 69: - Injector and tokens - Conditional DI
+Chapter 70: - Dynamic collections
+Chapter 71: - Revising Angular DI architecture
+
+Lab 7:- Input,output and event emitters.
+Chapter 72 :- Defining a user control
+Chapter 73 :- Interactions :- Input, output and event emitters
+Chapter 74 :- Creating user control and its components
+Chapter 75 :- Creating user control component and importance of selector
+Chapter 76 :- The @input decorator
+Chapter 77 :- Stters and custom component naming convention
+Chapter 78 :- Creating the Grid UI of the user control
+Chapter 79 :- Defining output and event emitters
+Chapter 80 :- Understanding the user control flow
+Chapter 81 :- Importing and running the user control
+Chapter 82 :- Debugging and watching the full flow.
+
+
+Lab 8:- Make HTTP calls using Angular Components.
+Chapter 83 :- Json-server , the fake webserver
+Chapter 84 :- Configuring json-server & db.json.
+Chapter 85 :- importing and creating http component object
+Chapter 86:- Making HTTP Post calls and the subscribe method.
+Chapter 87 :- Import HTTP Module at the module level.
+Chapter 88 :- Implementing DTO( Data transfer objects)
+Chapter 89 :- Lambdas and Callback
+Chapter 90 :- Angular HTTP Client.
+Chapter 91 :- Using HttpClient
+Chapter 92 : Simplicity of HttpClient.
+Chapter 93:- Interceptors in HttpClient
+Chapter 94:- The double data post
+
+
+Lab 9: - Integrating MVC Core with Angular using Visual Studio.
+Chapter 1 :- Defining the scope of the tutorial.
+Chapter 2 :- Using Angular template and its limitation
+Chapter 3 :- Respecting individual build and compilation. 
+Chapter 4 :- MVC wwwroot folder and Angular
+Chapter 5 :- Issues with ng serve and integration
+Chapter 6 :- Bootstrapping through MVC
+Chapter 7 :- Deployurl concept. 
+Chapter 8 :- Integrating Webapi with Angular Http
+Chapter 9 :- Debugging Angular and MVC
+Chapter 10 :- Ahh the camel case and pascal case issue
+Chapter 11:- Integrating Grunt with Task runner explorer
+Chapter 12 :- Grunt configuration using appsettings.json
+Chapter 13 :- Prebuild and Postbuild style
+Chapter 14 :- Double tooling VS code and Visual studio
+
+Lab 10:- Migratting Angular 6 to Angular 7
+Chapter 109 :- Create new project using ng new command.
+Chapter 110 :- Copy the code in to newly created projects.
+Chapter 111 :- Run ng serve , fix errors http to httpclient
+Chapter 112 :- Test and you are all set
+
+
+Lab 11 :- Unit Testing in Angular using Jasmine & Karma.
+Chapter 113 :- Integration testing vs Unit Testing
+Chapter 114 :- Black Box vs White Box
+Chapter 115 :- Jasmine and Karma
+Chapter 116 :- Understanding Jasmine syntaxes , BDD , Describe and it.
+Chapter 117 :- BeforeEach,BeforeAll,AfterEach and AfterAll
+Chapter 118 :- The TestBed API
+Chapter 119 :- Angular loading flow.
+Chapter 120 :- Fixture the baseline.
+Chapter 121 :- DebugElement , componentInstance and nativeElement
+Chapter 122 :- Assertion - expect , tobeTruthy , toEqual
+Chapter 123 :- Synching DOM's DetectChanges.
+Chapter 124 :- QuerySelectors.
+Chapter 125 :- Running Angular test
+Chapter 126 :- Writing a complex unit test for the Customer screen
+
+Angular E-Book Download
+Learn Angular in 2 days Step by Step (Covering Angular 2 and Angular 4/6 Labwise)
+
+Angular Interview Questions and Answers - 
+
+Angular Interview Questions and Answers - Part 1
+
+    Question no: 1 :- Whats the use of Angular ?
+    Question no: 2 :- What are directives in Angular ?
+    Question no: 3 :- Explain the different types of Angular directives ?
+    Question no: 4 :- Explain the importance of NPM and Node_Modules folder ?
+    Question no: 5 :- Explain the importance of Package.json file in Angular ?
+    Question no: 6 :- What is typescript and why do we need it ?
+    Question no: 7 :- Explain importance of Angular CLI ?
+    Question no: 8 :- Explain the importance of Component and Modules ?
+    Question no: 9 :- What is a decorator in Angular ?
+    Question no: 10 :- What are Annotationa or MetaData ?
+    Question no: 11 :- What is a template ?
+    Question no: 12 :- Explain the four types of Data bindings in Angular ?
+    Question no: 13 :- Explain architecture of Angular ?
+    Question no: 14 :- What is SPA in Angular ?
+    Question no: 15 :- How to implement SPA in Angular ?
+    Question no: 16 :- How to implement routing in Angular ?
+    Question no: 17 :- Explain Lazy Loading ?
+    Question no: 18 :- How to implement Lazy Loading in Angular ?
+    Question no: 19 :- Define Services ?
+    Question no: 20 :- What is Depedency Injection ?
+    Question no: 21 :- How to implement Depedency Injection ?
+    Question no: 23 :- Whats the benefit of Depedency Injection ?
+    Question no: 24 :- Differentiate between ng serve and ng build ?
+    Question no: 25 :- Explain the --prod parameter in ng build ?
+
+Angular Interview Questions and Answers - Part 2
+
+    Questions No:- 26 :- Explain ViewChild and ViewChildren?
+    Questions No:- 27 :- Why do we need Template reference variables?
+    Questions No:- 28 :- What is ContentProjection?
+    Questions No:- 29 :- Explain Content projection Slot?
+    Questions No:- 30 :- What is ContentChild and ContentChildren?
+    Questions No:- 31 :- ViewChild vs ViewChildren vs ContentChild vs ContentrChildren?
+
+
+Angular Interview Questions and Answers - Part 3
+
+    Questions No:- 32 :- Explain the importance of Component life cycle ?
+    Questions No:- 33 :- Explain events and sequence of component life cycle ?
+    Questions No:- 34 :- Constructor vs ngOnInit() ?
+ 
+Angular Interview Questions and Answers - Part 4
+
+    Questions No:- 35 :- How to make HTTP calls using Angular ?
+    Questions No:- 36 :- What is the need of Subscribe function ?
+    Questions No:- 37 :- How to handle errors when HTTP fails ?
+    Questions No:- 38 :- How to pass data between components ?
+    Questions No:- 39 :- Explain importance of input, output & event emitters ?
+    Questions No:- 40 :- How to pass during routing ?
+    Questions No:- 41 :- Is it a good practice to pass data using services ?
+
+Angular Interview Questions and Answers - Part 5
+
+    Question No: 42:- What is the need of Angular Pipes?
+    Question No: 43:- Can you name some built-in Angular Pipes?
+    Question No: 44:- How to create Custom pipes in Angular?
+
+Angular Interview Questions and Answers -Part 6
+
+    Question no: 45 :- Whats the full form of RxJs?
+    Question no: 46 :- What is the purpose of RxJs?
+    Question no: 47 :- What are observables and observers?
+    Question no: 48 :- Explain the use of Subscribe with sample code.
+    Question no: 49 :- How to unsbscribe in RxJs?
+    Question no: 50 :- Explain concept of operators with sample code.
+    Question no: 51 :- How to install RxJs?
+    Question no: 52 :- Differentiate between promise and RxJs?
+    Question no: 53 :- In Angular where have you used RxJs?
+    Question no: 54 :- Which operators have you used from RxJs?
+    Question no: 55 :- What is Push/reactive vs Pull/Imperative?
+
+Angular Interview Questions and Answers - Part 7
+    Question no: 56 :- What are Interceptors in Angular?
+    Question no: 57 :- How to implement Interceptors?
+    Question no: 58 :- Give some use of Interceptors?
+    Question no: 59 :- Can we provide multi-Interceptors?
+	
+	
+==============
+
+D&B
+https://iess.hgs-bs.com/Login.aspx?company=DUN
+5016930
+Dev@1234
+
+
+GE IDM
+https://onehr.ge.com/psp/prtl/GE_IN3_SITE/EMPL/h/?tab=DEFAULT
+sso : 212711129
+pwd: Harsha@1234Dev
+
+
+==============
+
+Introduction to Advanced Java 
+Advanced Java  Prerequisite
+JDBC
+JDBC API and JDBC Drivers
+JDBC API
+SQL
+Establishing Connection to Database
+Statement interface
+PreparedStatement interface
+Resultset Interface
+Metadata
+CallableStatement
+Batch updates
+Transaction Management
+Connection Pooling
+RowSet
+Communicating with difference databases
+JDBC 4.0 Features
+Working With Properties File
+SERVLET
+JEE
+Introduction
+Servlet API
+HTTP Protocol
+Developing Servlet
+Developing And Deploying Servlet Apps in  Servers 
+ServletRequest
+ServletResponse
+ServletConfig
+GenericServlet
+Working with welcome-file
+Methods of loading Servlet
+ServletContext
+HttpServlet
+HttpServletRequest
+HttpServletResponse
+RequestDispatching
+Redirecting
+Attributes
+State and Session Management
+URL Rewriting
+Hidden form fields
+Cookies
+HttpSession
+Error Handling in Servlet
+Filters
+Listeners
+Authentication and Authorization(Security In Servlet Programming)
+Annotations in Servlet Programming
+JSP
+Introduction
+JSP Basics
+JSP Tags
+Scripting Elements
+JSP implicit object
+Directives
+Standard Actions
+Java Bean
+Using Java Bean in JSP
+Expression Language
+Working JSTL
+Custom Tags
+MVC Architecture
+Developing Project using MVC
+
+SQL 99 Datatypes
+
+Intoduction to  Hibernate 
+Hibernate Prerequisite
+Advantages of Hibernate compared to JDBC
+Introduction
+ORM (Object Relational Mapping)
+Hibernate Architecture
+Installation and Directory Structure
+Hibernate Data Types
+First Application using Hibernate
+Hibernate API
+Object Life cycle in Hibernate
+CRUD operations using Session methods.
+Primary key Generators
+Hibernate Query Language (HQL)
+Joins in Hibernate
+Batch processing and Native SQL
+Criteria API
+Criteria with projections
+Inheritance Mapping
+Component Mapping
+Custom Mapping
+Collection Mapping
+Association Mapping
+Caching
+Connection Pool
+Transactions and Concurrency
+Integrating Hibernate with Servlet
+Working with Hibernate Annotations
+=====================
+
+
+set NODE_OPTIONS=--openssl-legacy-provider
+
+
+================
+
+Spring-Boot:
+Overview of framework
+Spring v/s spring boot
+Introduction to spring boot
+Pros and Cons of spring boot
+Approaches to create Spring boot application
+Spring Boot Starters
+Autoconfiguration
+Spring Boot Annotation
+Spring Boot Application Boot Strapping methods
+IOC Container
+Dependency Injection (Setter/Constructor/Field)
+Stereotype Annotations
+@Component, @Service, @Repository, @Controller
+Component Scanning
+Auto wiring
+@Configuration
+Application. properties/ Application. properties.yml
+Spring Boot application starters.
+Spring Web MVC
+Introduction MVC Architecture
+Controllers
+Handler Mappers
+View Resolvers
+Web Application Development
+Embedded server change Spring Boot
+Tomcat/jetty/undertow
+External server deployment
+MVC form tag library
+Spring boot form-based Application
+Thyme leaf introduction
+Web app with Thyme leaf
+Handling exception in spring boot
+Spring-Data:
+Overview
+Embedded Database Introduction – H2
+Spring ORM v/s data
+Crud repository
+Crud repo methods (find by methods)
+JPA Repository
+JPA Repository Methods
+Custom query execution spring data generation and sorting
+Spring data in web application
+Generators
+Custom Generators in Spring Data
+Spring Rest:
+Distributed Applications
+Distributed Technologies
+Restful services introduction
+Rest Principles
+JSON
+HTTP protocol details
+HTTP Methods
+HTTP Status Codes
+@Rest Controller
+@Rest Body
+@Response Body
+@Request Body @Request Param
+@Path Variable
+MediaType
+Produces
+Consumes
+Accept header
+Content type header
+Rest API development with spring boot
+POSTMAN
+Swagger and swagger ui
+Exception handling in rest api
+Microservices:
+Monolith introduction
+Monolith Architecture case study
+Monolith Deployment process
+Load Balancer(cluster) case study
+Load balancing algorithms
+Monolith drawbacks
+Microservices introduction
+Microservices Advantages
+Microservices Architecture
+Microservices deployment
+interservice communication
+Spring Cloud:
+Service Registry and Discovery (Netflix eureka)
+Feign client
+Hystrix (circuit breaker)
+Hystrix Dashboard
+Actuator
+Gateway api (zuul proxy)
+Distributed Logging
+Sleuth Logging
+Zipkin server
+Ribbon case study (Microservice load balancer)
+Implementing Ribbon in Microservices
+Spring Security:
+OAuth2 introduction
+Authorization and Authentication
+JWT implementation
+OAuth clients
+Spring Security Form Login
+Basic Form Login
+Logout
+Rest Template – Basic Authentication
+Deployment:
+Docker Introduction
+Docker Installation and Image creation
+Docker Container up and down
+========================
+
+https://nurkiewicz.com/2015/11/which-thread-executes.html
+
+https://medium.com/swlh/debugging-spring-reactive-applications-660be7989968
+
+https://kalpads.medium.com/
+
+https://kalpads.medium.com/fantastic-completablefuture-allof-and-how-to-handle-errors-27e8a97144a0
+
+
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/fix-ConcurrentModificationException-java-fail-safe-fast-solve#:~:text=How%20do%20you%20fix%20Java's,and%20iterate%20through%20the%20clone
+
+System Design Interview – An insider's guide Kindle Edition
+System Design Interview – An Insider's Guide: Volume 2
+
+System design - https://bytebytego.com/?fpr=alexcancode
+
+
+
+
+
+==============
+
+Citi Bank Interview Questions for #QA #SDET role
+
+1. What have you done still now as part of your IT experience?
+2. Do you know OOPs concepts and in a framework where and how you have implemented it?
+3. Can we declare a private class?
+4. What is the difference between == and equals?
+5. How is the string immutable?
+6. Where strings get stored and where does the reference get stored?
+7. Can you please explain with reference the memory location of how the string is immutable?
+8. If you don't want to use the String class then what can be used?
+9. Difference between String and StringBuffer.
+10. What collections have you used?
+11. Have you used HashMap?
+
+12. List declaration?
+13. Where is the Set used?
+14. You have an application like Flipkart and you want to buy a pen, so you have added that item two times to the cart using an add to cart button, but in the cart, only one entry for an item should be displayed with quantity as 2, so how you’ll test this?
+15. I have a table and want to store all table data Then which collection should be used and why?
+16. What HashMap will return?
+17. How to achieve inheritance without having an interface?
+18. Method overloading and method overriding? Where used in the framework?
+19. If I want that my class should not be extended and the instance cannot be created by other classes then how to declare class?
+20. How to store multiple values in one reference?
+21. In cucumber, in which class you have glue, how many classes for glue, and what was the program line limit for the class?
+22. How to find a missing implementation in Cucumber?, Used static data or dynamic data, what was the approach?
+23. How to resolve conflicts while pushing code in Git?
+24. Difference between QTP and Selenium (advantages and disadvantages).
+25. How can we achieve parallel execution.
+26. Running multiple tests for the same browser
+27. Running tests on different browsers
+28. Difference between Throw and Throws.
+29. If an exception is declared in throws and if an exception is encountered what will happen?
+30. Difference between try/catch block and throws.
+31. Explain different waits in Selenium.
+32. Which wait is better?
+33. The syntax for the implicit wait.
+34. What does the driver.manage() do?
+35. Database testing using Selenium.
+36. How will you establish a connection using a JDBC driver?
+37. How do you fire queries while using JDBC?
+38. Difference between Class and Instance variables.
+39. Concept of Selenium Grid.Multiple nodes and errors.
+40. How to find the horizontal and vertical position of an element without Javascript Executor.
+41. How does hashmap work?
+
+
+==========
+
+55 Interesting engineering blogs that will provide context when learning system design.
+
+Microsoft Tech: https://lnkd.in/etw_7_bN
+
+Engineering at Microsoft: https://lnkd.in/eEKz4ECi
+
+Meta: https://lnkd.in/e8tiSkEv
+
+AWS Architecture: https://lnkd.in/eEchKJif
+
+All Things Distributed: https://lnkd.in/emXaQDaS
+
+Nextflix Tech: https://lnkd.in/efPuR39b
+
+LinkedIn Engineering: https://lnkd.in/ehaePQth
+
+Uber Engineering: https://eng.uber.com/
+
+Engineering at Quora: https://lnkd.in/em-WkhJd
+
+Pinterest Engineering: https://lnkd.in/esBTntjq
+
+Lyft Engineering: https://eng.lyft.com/
+
+Twitter Engineering: https://lnkd.in/evMFNhEs
+
+Dropbox Engineering: https://dropbox.tech/
+
+Spotify Engineering: https://lnkd.in/eJerVRQM
+
+Github Engineering: https://lnkd.in/eCADWt8x
+
+Instagram Engineering: https://lnkd.in/e7Gag8m5
+
+Canva Engineering: https://canvatechblog.com/
+
+Etsy Engineering: https://lnkd.in/eddzzKRt
+
+Booking.com
+ Tech: https://blog.booking.com/
+
+Expedia Technology: https://lnkd.in/ehjuBE5J
+
+The Airbnb Tech: https://lnkd.in/emGrJbGM
+
+Stripe Engineering: https://lnkd.in/em6Svgyx
+
+Ebay Tech: https://tech.ebayinc.com/
+
+Flickr's Tech: https://code.flickr.net/
+
+Hubspot Product and Engineering: https://lnkd.in/eRGZkBd4
+
+Zynga Engineering: https://lnkd.in/eex5Ddry
+
+Yelp Engineering: https://lnkd.in/epgBW_4J
+
+Heroku Engineering: https://lnkd.in/evgctQjh
+
+Discord Engineering: https://lnkd.in/evY4gpUA
+
+Zomato: https://lnkd.in/e9gf3APD
+
+Hotstar: https://blog.hotstar.com/
+
+Swiggy: https://bytes.swiggy.com/
+
+Acast Tech: https://lnkd.in/esuCEYZb
+
+ASOS Tech: https://lnkd.in/esXfdv3G
+
+Shopify Engineering: https://lnkd.in/evvnqQTj
+
+MongoDB Engineering: https://lnkd.in/e9iaqcmZ
+
+Slack Engineering: https://slack.engineering/
+
+DoorDash Engineering: https://lnkd.in/ep5raBZv
+
+Akamai: https://lnkd.in/ey_dtA7C
+
+Expedia Technology: https://lnkd.in/ehjuBE5J
+
+Reddit Engineering: https://lnkd.in/e4E_XzaX
+
+Snap Engineering: https://eng.snap.com/blog
+
+Engineering at Depop: https://lnkd.in/eGjRYcFd
+
+SourceDiving : https://sourcediving.com/
+
+Auto Trader Engineering: https://lnkd.in/eGDKA_g3
+
+Indeed Engineering: https://lnkd.in/ecFS87Dt
+
+Gusto Engineering: https://lnkd.in/e7yVxDKs
+
+Engineering at Birdie: https://lnkd.in/eUqJTpje
+
+Forethough Engineering: https://lnkd.in/esCKvedJ
+
+Ramp: https://lnkd.in/eZHSnx-j
+
+Capital One: https://lnkd.in/ezsKUf_H
+
+Disney Streaming: https://lnkd.in/eWe6w6TT
+
+Dunelm: https://lnkd.in/enJS53DS
+
+The Guardian: https://lnkd.in/e73WNZNN
+
+GiffGaff: https://lnkd.in/eBakqffd
+===========
+
+→ Functions (scoping, closures, currying and higher order functions)
+
+→ Template literals
+
+→ Destructuring
+
+→ Parameter defaults
+
+→ Rest/Spread
+
+→ EsModules
+
+→ Logical operators (if else, switch, ternaries, nullish coalescing etc)
+
+→ Array, Object, String methods
+
+→ Promises and Async/Await
+
+→ Web workers
+
+→ Web APIs
+
+====
+SQL:
+1. How do you create a new table in a SQL database?
+2. What SQL statement is used to add a column to an existing table?
+3. How can you remove a table from a SQL database?
+4. What is the purpose of a primary key in a table?
+5. How do you define a foreign key relationship between two tables?
+6. Explain the concept of a unique constraint in SQL.
+7. What is a CHECK constraint used for in SQL?
+8. How can you specify a default value for a column when creating a table?
+9. What is an index, and why is it used in a database?
+10. How do you create an index on a specific column in a table?
+11. What is the CASCADE option when defining foreign keys, and when is it used?
+12. How do you rename a table in SQL?
+13. Explain the difference between TRUNCATE TABLE and DELETE FROM TABLE.
+14. How can you change the data type of a column in an existing table?
+15. What is the purpose of a schema in SQL?
+16. How do you grant SELECT permission on a table to a user in SQL?
+17. What is an identity column, and how is it used?
+18. How can you change the data type of a column without losing data?
+19. Explain the concept of a unique index in SQL.
+20. How do you revoke permission from a user on a specific table in SQL?
+
+
+FREE AWS Certificates from @Amazon for 2023
+
+1. Getting Started with Data Analytics on AWS
+
+🔗https://lnkd.in/gVb7QrJv
+
+
+2. Practical Data Science on the AWS Cloud Specialization
+
+🔗https://lnkd.in/gncCwfik
+
+
+3. Hands-on Machine Learning with AWS and NVIDIA
+
+🔗https://lnkd.in/gzYhttyz
+
+
+4. Introduction to Machine Learning on AWS
+
+🔗https://lnkd.in/gHxdeyCf
+
+
+5. DevOps on AWS Specialization
+
+🔗https://lnkd.in/gCDG_mxM
+
+
+6. AWS Fundamentals Specialization
+
+🔗https://lnkd.in/g_AxNXyE
+
+
+7. AWS Fundamentals: Building Serverless Applications
+
+🔗https://lnkd.in/gFGEtHHm
+
+
+8. AWS Cloud Technical Essentials
+
+🔗https://lnkd.in/gkuGUvRZ
+
+
+9. AWS Fundamentals: Addressing Security Risk
+
+🔗https://lnkd.in/gfwK3QFz
+
+
+10. AWS Cloud Solutions Architect Professional Certificate
+
+🔗https://lnkd.in/gWyEqMRG
+
+
+11. Architecture Solutions on AWS
+
+🔗https://lnkd.in/g5PafCjR
+
+
+12. AWS Fundamentals: Migrating to the Cloud
+
+🔗 https://lnkd.in/gRrVBhtv
+
+
+13. AWS Cloud Practitioner Essentials
+
+🔗 https://lnkd.in/g4XXt5Bz
+
+
+14. Exam Prep: AWS Certified Cloud Practitioner Foundations
+
+🔗https://lnkd.in/gD3XsYEp
+
+
+15. DevOps on AWS: Operate and Monitor
+
+🔗https://lnkd.in/gmVzQdZ6
+
+
+16. AWS Cloud Practitioner Essentials
+
+🔗https://lnkd.in/gFVri5JG
+
+
+17. AWS Fundamentals: Building Serverless Applications
+
+🔗https://lnkd.in/gMCNqbWJ
+
+
+18. Exam Prep: AWS Certified Cloud Practitioner Foundations
+
+🔗https://lnkd.in/gpW2Ba-C
+
+https://www.youtube.com/watch?v=noKgvN_42Hk
+
+https://www.baeldung.com/mockito-argumentcaptor
+
+I spent 7 hours building this React JS Roadmap Sheet so that you can become a React Developer✅
+
+How is this roadmap different from other resources?
+
+- Contains Deadlines✅
+- Resources are attached✅
+- In-built tracker to track progress ✅
+- Focused on Project-based learning ✅
+
+Here’s what the roadmap looks like:
+
+1. States & Components (10-15 days)
+
+- Introduction to JSX
+- Props
+- Components
+- Functional Components
+- Conditional Rendering
+- JSX in depth
+
+2. Hooks(10-15 days)
+
+- Basic of Hooks
+- useState()
+- useEffect
+- Rules of Hooks
+- Custom Hooks
+
+3. Routing & Stage Management(10-15 days)
+
+- React Router
+- useReducer
+- Redux States & Actions
+- Concepts of Redux
+
+4. Next JS(12-18 Days)
+
+- Intro to Next JS
+- Next JS vs React JS
+- Server Side Rendering
+- Data Fetching
+- Hot Reloading
+
+
+
+Note: I have added 4 projects with designs in the Roadmap. Pick 1 project and build that project from scratch📝
+
+Just remember, don’t get stuck in the forever loop of tutorial-based learning‼️
+
+Do this:
+
+- Get your hands dirty
+- Resolve your doubts through Google & ChatGPT
+- Spend more time on building than watching lectures
+
+
+Note: Save this post if you want to learn React JS in the future
+
+https://medium.com/@tobintom/create-a-live-angular-ui-dashboard-with-spring-boot-kafka-and-mongodb-8684d4ccd5d
+
+https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+
+https://medium.com/javarevisited/what-is-cqrs-command-and-query-responsibility-segregation-pattern-7b1b38514edd0
+
+https://martinfowler.com/bliki/CQRS.html
+
+https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c
+
+https://github.com/glonkar/online-banking-example
+
+https://github.com/mrgatto/springboot-kafka-to-angular-websocket
+
+SQL Interviews coming up?
+
+Use this to revise the basics pretty quickly:
+
+SQL is a widely used language for querying and manipulating data in relational databases. If you are preparing for an SQL interview, you should be familiar with the basic concepts and commands of SQL, as well as some advanced topics and techniques.
+
+Here are some important SQL questions to revise for the interviews (basic level understanding):
+
+What is the difference between SQL and MySQL?
+
+How do you create, update, and delete a table in SQL?
+
+What are the types of SQL queries and commands?
+
+What are the differences between DDL, DML, DCL, and TCL in SQL?
+
+What are the differences between primary key, foreign key, unique key, and composite key in SQL?
+
+What are the types of SQL joins and how do you use them?
+
+What are the differences between inner join, left join, right join, and full join in SQL?
+
+What are the differences between UNION and UNION ALL in SQL?
+
+What are the differences between WHERE and HAVING clauses in SQL?
+
+What are the differences between GROUP BY and ORDER BY clauses in SQL?
+
+What are the differences between aggregate and scalar functions in SQL?
+
+What are some examples of built-in and user-defined functions in SQL?
+
+What are subqueries and how do you use them in SQL?
+
+What are the differences between nested and correlated subqueries in SQL?
+
+How do you find the nth highest value in a column in SQL?
+
+What are indexes and how do you create and use them in SQL?
+
+What are the benefits and drawbacks of using indexes in SQL?
+
+What are the types of SQL constraints and how do you use them?
+
+What are the differences between normalization and denormalization in SQL?
+
+What are the normal forms and how do you apply them in SQL?
+
+What are the differences between DELETE, TRUNCATE, and DROP statements in SQL?
+
+How do you use transactions and locks in SQL?
+
+What are the ACID properties of transactions in SQL?
+
+What are the types of SQL triggers and how do you use them?
+
+What are the types of SQL views and how do you use them?
+
+Please feel free to add answers in the comments section.
+
+
+https://medium.com/@oguz.topal/central-swagger-in-spring-cloud-gateway-697a1c37b03d
+
+𝗔𝗿𝗿𝗮𝘆𝘀 𝗮𝗻𝗱 𝗦𝘁𝗿𝗶𝗻𝗴𝘀:
+1. Find the missing number in an array of integers.
+2. Implement an algorithm to rotate an array.
+3. Check if a string is a palindrome.
+4. Find the first non-repeating character in a string.
+5. Implement an algorithm to reverse a linked list.
+6. Merge two sorted arrays.
+7. Implement a stack using arrays/linked list.
+8. Write a program to remove duplicates from a sorted array.
+
+𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁𝘀:
+1. Detect a cycle in a linked list.
+2. Find the intersection point of two linked lists.
+3. Reverse a linked list in groups of k.
+4. Implement a function to add two numbers represented by linked lists.
+5. Clone a linked list with next and random pointer.
+
+𝗧𝗿𝗲𝗲𝘀 𝗮𝗻𝗱 𝗕𝗶𝗻𝗮𝗿𝘆 𝗦𝗲𝗮𝗿𝗰𝗵 𝗧𝗿𝗲𝗲𝘀 (𝗕𝗦𝗧):
+1. Find the height of a binary tree.
+2. Check if a binary tree is balanced.
+3. Find the lowest common ancestor in a binary tree.
+4. Serialize and deserialize a binary tree.
+5. Implement an algorithm for in-order traversal without recursion.
+6. Convert a BST to a sorted doubly linked list.
+
+𝗦𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴 𝗮𝗻𝗱 𝗦𝗼𝗿𝘁𝗶𝗻𝗴:
+1. Implement binary search.
+2. Find the kth smallest/largest element in an array.
+3. Implement quicksort.
+4. Count the number of inversions in an array.
+5. Search in a rotated sorted array.
+Implement a sorting algorithm for linked lists.
+
+𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴:
+1. Find the longest common subsequence.
+2. Calculate the nth Fibonacci number using dynamic programming.
+3. Coin change problem.
+4. Longest increasing subsequence.
+5. Knapsack problem.
+
+𝗚𝗿𝗮𝗽𝗵𝘀 𝗮𝗻𝗱 𝗗𝗙𝗦/𝗕𝗙𝗦:
+1. Implement depth-first search (DFS) and breadth-first search (BFS).
+2. Check if a graph is cyclic.
+3. Shortest path in a weighted graph (Dijkstra's or Bellman-Ford).
+4. Topological sort of a directed acyclic graph (DAG).
+5. Count the number of connected components in an undirected graph.
+
+𝗠𝗶𝘀𝗰𝗲𝗹𝗹𝗮𝗻𝗲𝗼𝘂𝘀:
+1. Implement a LRU (Least Recently Used) cache.
+2. Find the median of two sorted arrays.
+3. Implement a stack that supports push, pop, top, and retrieving the minimum 4. element in constant time.
+5. Design a data structure that supports insert, delete, getRandom() operations in constant time.
+6. Check if a Sudoku is valid.
+
+ sliding window approach
+ 
+ 
+ 
+ Everyone says, 'The best way to learn AWS is to build in the cloud.'
+
+BUT...
+
+'How? Where can I get a sample project?' This is the most common question I hear from aspiring and existing cloud engineers.
+
+Here are 10 handpicked projects you can build for FREE:
+
+→ Build a Serverless Web Application: https://lnkd.in/gCgdvmYK
+
+
+→ Create Continuous Delivery Pipeline: https://lnkd.in/gSw_zaVM
+
+
+→ Create and Connect to a MySQL Database with Amazon RDS: https://lnkd.in/gksv8u92
+
+
+→ Amazon EC2 Backup and Restore Using AWS Backup: https://lnkd.in/g8fArRZ8
+
+
+→ Batch Upload Files to Amazon S3 Using the AWS CLI: https://lnkd.in/gegNihnk
+
+
+→ Deploy a Web App on AWS Amplify: https://lnkd.in/gPdaC65x
+
+
+→ Remotely Run Commands on an EC2 Instance with AWS Systems Manager: https://lnkd.in/gGvd4SZ7
+
+
+→ Detect, Analyze, and Compare Faces with Amazon Rekognition: https://lnkd.in/g478VkKm
+
+
+→ Create an Audio Transcript with Amazon Transcribe: https://lnkd.in/gukPRryX
+
+
+→ Analyze insights in text with Amazon Comprehend: https://lnkd.in/gw-miUPm
+
+
+REPOST if this was helpful to you - to benefit others ♻
+
+https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/
+
+Kotlin Coroutines Series: Learn in-depth and grow exponentially.
+
+• Mastering Kotlin Coroutines: https://lnkd.in/ggQaDAZx
+
+
+• suspend function in Kotlin Coroutines: https://lnkd.in/gzfFCbER
+
+
+• Suspending vs Blocking in Kotlin Coroutines: https://lnkd.in/gaVi_SFt
+
+
+• Launch vs Async in Kotlin Coroutines: https://lnkd.in/g4XbhTTp
+
+
+• Dispatchers in Kotlin Coroutines: https://lnkd.in/gaM84uzQ
+
+
+• coroutineScope vs supervisorScope: https://lnkd.in/gdgGVS-i
+
+
+• Kotlin withContext vs Async-await: https://lnkd.in/gtkFK5Qz
+
+
+• Callback to Coroutines in Kotlin: https://lnkd.in/gKz5UEPB
+
+
+• Parallel Multiple Network Calls Using Kotlin Coroutines: https://lnkd.in/g4-vbtKK
+
+
+• Unit Testing ViewModel with Kotlin Coroutines: https://lnkd.in/gfH-m-Hi
+
+
+Commonly asked System Design CONCEPT BASED interview topics -
+
+1. Horizontal vs Vertical Partitioning: 
+Vertical partitioning splits tables by columns, often separating different features. Horizontal partitioning splits tables by rows, distributing data across multiple servers. Vertical organizes data logically, while horizontal improves scalability + performance.
+
+2. Apache Kafka:
+Kafka is a distributed streaming platform using a publish-subscribe model. It's fast due to the sequential disk I/O, zero-copy principle, and efficient batching of messages. 
+
+3. Rate Limiter: 
+A rate limiter controls the rate of requests a client can make to a service. It prevents overload and ensures fair resource usage.
+
+4. JWT vs OAuth vs SAML: 
+JWT is a compact, self-contained token for secure information transmission. OAuth is an authorization framework for delegated access. SAML is an XML-based standard for exchanging authentication and authorization data. 
+
+5. Single Sign-On (SSO):
+SSO allows users to access multiple applications with one set of credentials. It typically uses a central authentication server and protocols like SAML/OAuth. 
+
+6. Microservices vs Monolithic Architecture: 
+Microservices architecture breaks an application into small, independent services. Monolithic architecture is a single, tightly-coupled unit. Microservices offer scalability while monoliths are simpler to develop + deploy.
+
+7. Reverse Proxy vs Forward Proxy: 
+A reverse proxy sits in front of web servers, forwarding client requests to backend servers. A forward proxy sits in front of clients, forwarding their requests to the internet. Reverse proxies are used for load balancing and security, while forward proxies are used for anonymity and filtering.
+
+8. CAP Theorem: 
+The CAP theorem states that a distributed system can only provide two of three guarantees: Consistency, Availability, and Partition tolerance. In practice, partition tolerance is necessary, so systems must choose between consistency and availability during network partitions.
+
+10. Efficient Caching Strategy:
+Implement multi-level caching (browser, CDN, application server, database). Use appropriate cache invalidation strategies (TTL, event-based). Consider cache coherence for distributed systems.
+
+
+If you're targeting top PBCs and need guidance, mentorship, or a structured curriculum to prepare for System Design interviews, I suggest exploring Bosscoder Academy.
+
+Check here - https://bit.ly/46Bn7rx
+ 
+
+Enrol in a course that’s specially designed for experienced professionals and get:
+✅ Structured curriculum heavily focused on DSA & System Design.
+✅ Live Weekend Classes, with Limited Batch Size with only experienced Working Professionals.
+✅ Personal Mentorship from Industry Veterans working with MAANG.
+✅ 24/7 Doubt Support & Placement Assistance for Senior Roles
+
+
+Stay curious, keep learning, keep sharing !
+
+
+People ask in my “DM”s, Harsha can you tell me
+“What are the typical daily responsibilities of a Data Engineer?”
+
+My answer is:
+
+1. Attend status calls with clients or team leads to get business requirements.
+
+2. Design high level/low level architecture for the given requirements.
+
+3. Develop optimized code as per the business requirements.
+
+4. Perform unit testing on the code to find the bugs.
+
+5. Review developed code with your clients/leads if you face any challenges.
+
+6. Fix any issues in your developed code & review PR’s of your team members.
+
+7. Deploy the code to GIT and fix the errors during code deployment.
+
+8. Create pipelines to run the code.
+
+9. Monitor the pipelines and fix any issues within the deadlines.
+
+10. Updating the project status on Project Management Tools.
+
+11. Preparing documentation to track your project.
+
+You would be performing one or more above mentioned responsibilities if you're a Data Engineer or if you want to be become a Data Engineer.
+
+
+1. Optimize your Docker images by using techniques like:
+ ➜ Multi-stage Docker builds
+ ➜ Tools such as Docker Slim, and create distress images to ensure lightweight, efficient containers.
+
+2. Get familiar with using ingress controllers like the AWS ALB Ingress Controller.
+
+3. Use Helm for deployments instead of traditional Kubernetes manifest files.
+
+4. Learn how to observe your infrastructure and applications using tools like:
+ ➜ Dynatrace
+ ➜ Datadog.
+
+5. Gain experience in upgrading your EKS clusters and related components, including add-ons.
+
+6. Master different deployment strategies such as:
+ ➜ Blue-green deployments
+ ➜ Canary deployments
+ These approaches can help you deploy updates with zero downtime.
+
+7. Learn about service discovery and service mesh tools like Istio. Understand the problems it solves and why it’s necessary.
+
+8. Get acquainted with the Horizontal Pod Autoscaler (HPA) and cluster autoscalers like Karpenter to scale your EKS and Kubernetes components.
+
+9. Learn cost optimization techniques such as:
+ ➜ Right-sizing your worker nodes
+ ➜ Setting service quotas
+ ➜ Managing CPU and memory allocations in your pods.
+
+10. Understand security best practices in EKS:
+ ➜ Use Secrets Manager, KMS, and IRSA
+ ➜ Access private databases securely
+ ➜ Secure images and containers with tools like Twistlock
+ ➜ Manage users, create private clusters, encrypt data
+ ➜ Securely deploy containers from private repositories like ECR, JFrog, or RedHat Quay.
+
+11. Use ArgoCD for GitOps to manage your Kubernetes applications declaratively.
+
+12. Implement topology spread constraints to ensure high availability and resilience in your applications. Also, use readiness and liveness probes to monitor application health and ensure smooth operation.
+
+13. Deploy your applications using CI/CD tools like GitHub Actions or Jenkins.
+
+14. Understand when and why to use StatefulSets in Kubernetes for managing stateful applications.
+
+15. Finally, learn how to manage multiple environments (development, UAT, production) effectively, considering cost and unique customer use cases.
+
+@DirtiesContext - SpringBoot
+
+advicewith
+template
+ProducerTemplate
+@parameterizedTests
+
+If you want to master system design (in 1 month or less), learn these case studies:
+
+
+1/ How PayPal Was Able to Support a Billion Transactions per Day With Only 8 Virtual Machines:
+➟ https://lnkd.in/eqcb7MpP
+
+2/ Eight Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers:
+➟ https://lnkd.in/gRqBgXfc
+
+3/ How Uber Computes ETA at Half a Million Requests per Second:
+➟ https://lnkd.in/eVKV2ePC
+
+4/ How YouTube Was Able to Support 2.49 Billion Users With MySQL:
+➟ https://lnkd.in/efmJw4Dx
+
+5/ How Uber Finds Nearby Drivers at 1 Million Requests per Second:
+➟ https://lnkd.in/eeqH9Hjh
+
+6/ How Stripe Prevents Double Payment Using Idempotent API:
+➟ https://lnkd.in/erMkqwq4
+
+7/ How Amazon S3 Achieves 99.999999999% Durability:
+➟ https://lnkd.in/eutGiK35
+
+8/ How Amazon Lambda Works:
+➟ https://lnkd.in/eNd3Z5Yn
+
+9/ How Cloudflare Supports 55 Million Requests per Second With 15 Postgres Clusters:
+➟ https://lnkd.in/eEQP6Apw
+
+10/ How to Scale an App to 10 Million Users on AWS:
+➟ https://lnkd.in/eU736g9Q
+
+11/ How Instagram Scaled to 2.5 Billion Users:
+➟ https://lnkd.in/ejBKTZPD
+
+12/ How Tinder Scaled to 1.6 Billion Swipes per Day:
+➟ https://lnkd.in/en65fv-W
+
+13/ Slack Architecture:
+➟ https://lnkd.in/eATMDjrK
+
+14/ How Meta Achieves 99.99999999% Cache Consistency:
+➟ https://lnkd.in/e88kUZAm
+
+
+
+
+- LLD+HLD combined: 
+https://lnkd.in/gG26HdWn
+
+- LLD only:
+https://lnkd.in/gr273WYV
+
+- HLD only:
+https://lnkd.in/gi7Qfqty
+
+
+Before accepting a job offer:
+
+(Do this to avoid working in a toxic workplace)
+
+1. Click 'Search' on LinkedIn.
+2. Find the company you interviewed at.
+3. Press the 'people' button and filter it down.
+4. Filter by 'location', and 'what they do' specifically.
+5. Now, look for people who left the company recently.
+6. To do so, click "all filters" and select 'past employees.'
+
+Send them this message:
+
+"Hi, I noticed you previously worked for company X. I'm considering signing an offer there. Would you be willing to share your previous experience there with me?"
+
+Pro tip: Target people who worked in your new role.
+
+Remember, companies do their research on you... make sure you research them back.
