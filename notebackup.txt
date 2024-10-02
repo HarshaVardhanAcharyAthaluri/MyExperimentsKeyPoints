@@ -1315,3 +1315,5 @@ Send them this message:
 Pro tip: Target people who worked in your new role.
 
 Remember, companies do their research on you... make sure you research them back.
+
+https://www.marcobehler.com/guides/spring-security
