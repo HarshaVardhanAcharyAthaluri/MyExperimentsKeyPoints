@@ -157,3 +157,8 @@ https://gist.github.com/esfand/66880950
 # VisualVM
 VisualVM monitors and troubleshoots applications running on Java 1.4+ from many vendors using various technologies including jvmstat, JMX, Serviceability Agent (SA) and Attach API.
 VisualVM perfectly fits all the requirements of application developers, system administrators, quality engineers and end users.
+
+# Spring/SpringBoot Findings
+Some times springboot applicaiton will not start and we dont have what is actual clue, some time its going to hang forever then do below it will give the internall erros also
+Add below in your application.yml:
+`` debug: true ``
