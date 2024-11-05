@@ -162,3 +162,6 @@ VisualVM perfectly fits all the requirements of application developers, system a
 Some times springboot applicaiton will not start and we dont have what is actual clue, some time its going to hang forever then do below it will give the internall erros also
 Add below in your application.yml:
 `` debug: true ``
+# Visualise the code flow
+https://pythontutor.com/java.html#mode=edit
+
