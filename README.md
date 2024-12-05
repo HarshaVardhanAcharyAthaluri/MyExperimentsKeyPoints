@@ -164,4 +164,6 @@ Add below in your application.yml:
 `` debug: true ``
 # Visualise the code flow
 https://pythontutor.com/java.html#mode=edit
+# learning
+https://docs.oracle.com/javase/tutorial
 
