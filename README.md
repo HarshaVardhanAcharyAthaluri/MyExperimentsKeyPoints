@@ -167,4 +167,4 @@ https://pythontutor.com/java.html#mode=edit
 # learning
 https://docs.oracle.com/javase/tutorial
 # MySQL clear console
-mysql> \! cls
+`` mysql> \! cls ``
