@@ -168,3 +168,5 @@ https://pythontutor.com/java.html#mode=edit
 https://docs.oracle.com/javase/tutorial
 # MySQL clear console
 `` mysql> \! cls ``
+# Google Java codeformat
+java -jar google-java-format-1.19.2-all-deps.jar ーーreplace $(find. -type f -name '*java' |tr "\n" " ")
