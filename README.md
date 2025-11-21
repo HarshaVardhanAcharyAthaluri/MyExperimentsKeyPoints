@@ -172,5 +172,5 @@ https://docs.oracle.com/javase/tutorial
 java -jar google-java-format-1.19.2-all-deps.jar ーーreplace $(find. -type f -name '*java' |tr "\n" " ")
 
 # Mysql shell connect.
-\connect root@localhost:33060
-\sql
+- \connect root@localhost:33060
+- \sql
